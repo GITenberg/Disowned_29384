@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '33886'
     url: http://www.gutenberg.org/2009/agents/33886
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29384#Disowned
 gutenberg_bookshelf:
 - Science Fiction
 - Astounding Stories
